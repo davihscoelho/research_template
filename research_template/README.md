@@ -1,7 +1,7 @@
 research_template
 ==============================
 
-Projeto para Pesquisas
+Projeto Template Research
 
 Project Organization
 ------------
